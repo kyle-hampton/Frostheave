@@ -1,0 +1,23 @@
+body{
+    background: #F2F2F2;
+    overflow-x: hidden;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    padding-left: 10%;
+    margin-left: 1250%;
+    
+}
+.brand-logo{
+    height: 50%;
+    width: 100%;
+    margin-right: 50%;
+}
+li{
+  display: inline-block;
+  list-style-type: none;
+  float: left;
+  vertical-align: middle;
+  
+}
