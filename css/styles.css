@@ -1,23 +1,154 @@
+#icon{
+  height: 50px;
+  width: 50px;
+}
 body{
     background: #F2F2F2;
     overflow-x: hidden;
 }
-.logo{
-    height: 50px;
+#brand{
+    height: 55px;
     width: 50px;
-    padding-left: 10%;
-    margin-left: 1250%;
-    
+    margin-left: 10px;
+}
+#frostheave{
+    padding-top: 4%;
+}
+#btn{
+    width: 70px;
+    height: 40px;  
+}
+#space{
+    padding-left: 80%;
+}
+.twitter{
+     height: 1000px;
+     width: 1000px;
+     margin-left: 15%;
+}
+.wrap{
+    padding: 25px;
 }
 .brand-logo{
-    height: 50%;
+    height: 45%;
     width: 100%;
-    margin-right: 50%;
+    margin-right: 45%;
 }
-li{
+.what{
+    text-align: center;
+    color: #F2F2F2;
+    font-weight: bold;
+    background-color: #05AFFF;
+    height: 30%;
+    font: 20%;
+}
+.coming{
+    font-weight: bold;
+    text-align: center;
+    color: #F2F2F2;
+    font-weight: bold;
+    background-color: #05AFFF;
+    height: 30%;
+}
+ul{
   display: inline-block;
   list-style-type: none;
   float: left;
-  vertical-align: middle;
-  
+}
+.btn{
+    background-color: #6CCEFF;
+    width: 25%;
+    border: #05AFFF;
+}
+#mouse{
+    height: 230px;
+    width: 230px;
+    padding: 15px;
+}
+#phone{
+    height: 175px;
+    
+    
+}
+#speedometer{
+    margin-right: 50%;
+    height: 210px;
+    width: 210px;
+}
+#text{
+    padding-top: 50px;
+}
+#row4{
+    padding-bottom: 10px;
+}
+.games{
+    padding-right: 8%;
+}
+#change{
+    padding: 10%;
+    
+}
+#border{
+    border-color: #05AFFF;
+}
+#sign{
+    margin-left: 18%;
+}
+#button{
+    margin-left: 38%;
+}
+#social{
+    height: 210px;
+    width: 210px;
+    margin: 5%;
+}
+#blue-box{
+    background-color: #05AFFF;
+    height: 40%;
+}
+#row{
+   
+}
+#text-box{
+    background-color: #6CCEFF;
+    height: 20%;
+}
+.social{
+    margin-left: 32%;
+}
+#social{
+    margin-left: 200%;
+    height: 150px;
+    width: 150px;
+}
+.social1{
+    background-color: #6CCEFF;
+}
+.animated-icon1, .animated-icon2, .animated-icon3, .animated-icon4 {
+  width: 30px;
+  height: 20px;
+  position: relative;
+  margin: 0px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -webkit-transition: .5s ease-in-out;
+  -moz-transition: .5s ease-in-out;
+  -o-transition: .5s ease-in-out;
+  transition: .5s ease-in-out;
+  cursor: pointer;
+}
+.parallax { 
+    /* The image used */
+    background-image: url("./css/assets/esports-show-me-the-money-149209350413 - Copy.jpg");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
