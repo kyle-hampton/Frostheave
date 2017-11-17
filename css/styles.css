@@ -11,12 +11,16 @@ body{
     width: 50px;
     margin-left: 10px;
 }
+#emblem{
+    height: 210px;
+    width: 210px;
+}
 #frostheave{
     padding-top: 4%;
 }
 #btn{
-    width: 70px;
-    height: 40px;  
+    width: 110px;
+    height: 50px;  
 }
 #space{
     padding-left: 80%;
@@ -30,7 +34,7 @@ body{
     padding: 25px;
 }
 .brand-logo{
-    height: 45%;
+    height: 55%;
     width: 100%;
     margin-right: 45%;
 }
@@ -67,8 +71,6 @@ ul{
 }
 #phone{
     height: 175px;
-    
-    
 }
 #speedometer{
     margin-right: 50%;
@@ -94,32 +96,20 @@ ul{
 #sign{
     margin-left: 18%;
 }
-#button{
-    margin-left: 38%;
-}
-#social{
-    height: 210px;
-    width: 210px;
-    margin: 5%;
-}
 #blue-box{
     background-color: #05AFFF;
     height: 40%;
 }
-#row{
-   
-}
+
 #text-box{
     background-color: #6CCEFF;
     height: 20%;
 }
-.social{
-    margin-left: 32%;
-}
+
 #social{
-    margin-left: 200%;
-    height: 150px;
-    width: 150px;
+    height: 100px;
+    width: 100px;
+    margin-left: 50%;
 }
 .social1{
     background-color: #6CCEFF;
